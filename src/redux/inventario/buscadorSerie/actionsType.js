@@ -1,0 +1,3 @@
+export const LOADING_BUSCADOR = "LOADING_BUSCADOR";
+export const GET_BUSCADOR = "GET_BUSCADOR";
+export const BUSCADOR_FAIL = "BUSCADOR_FAIL";

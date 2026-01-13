@@ -1,0 +1,5 @@
+export const LOADING_TIPO_VENTA = "LOADING_TIPO_VENTA";
+export const SAVE_LOADING_VENTA = "SAVE_LOADING_VENTA";
+export const GET_TIPO_VENTA = "GET_TIPO_VENTA";
+export const FORM_FAIL = "FORM_FAIL";
+export const TIPO_VENTA_FAIL = "TIPO_VENTA_FAIL";

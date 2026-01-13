@@ -1,0 +1,7 @@
+export const LOADING_META = "LOADING_META";
+export const SAVE_LOADING_META = "SAVE_LOADING_META";
+export const GET_META = "GET_META";
+export const FORM_FAIL = "FORM_FAIL";
+export const META_FAIL = "META_FAIL";
+//export const LOADING_PRODUCT_TYPE_BY_ID = "LOADING_PRODUCT_TYPE_BY_ID";
+//export const GET_PRODUCT_TYPE_BY_ID = "GET_PRODUCT_TYPE_BY_ID";

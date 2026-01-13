@@ -1,0 +1,5 @@
+export const LOADING_ALERTAS = "LOADING_ALERTAS";
+export const GET_ALERTAS = "GET_ALERTAS";
+export const ALERTAS_FAIL = "ALERTAS_FAIL";
+export const LOADING_ALERTA_BY_ID = "LOADING_ALERTA_BY_ID";
+export const GET_ALERTA_BY_ID = "GET_ALERTA_BY_ID";
