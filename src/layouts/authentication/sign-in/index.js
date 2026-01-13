@@ -236,10 +236,10 @@ function Illustration() {
               marginTop: 2,
               paddingY: 1.5,
               borderRadius: 2,
-              backgroundColor: '#6a8173',
+              backgroundColor: '#677bcc',
               color: '#ffffff',
               '&:hover': {
-                backgroundColor: '#bea38e',
+                backgroundColor: '#2137ae',
               },
             }}
           >
